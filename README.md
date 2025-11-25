@@ -56,7 +56,10 @@
 
 ### Результат
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4180b2b9-233a-4916-b0d0-441bed2cce27" />
+<img width="1098" height="321" alt="image" src="https://github.com/user-attachments/assets/1da4ff36-be50-4237-93b2-378a2ec931fb" />
+
+<img width="1166" height="670" alt="image" src="https://github.com/user-attachments/assets/741c7b36-362c-44ff-b9b2-403c905a8c10" />
+
 
 
 ### Практичечкая работа №13 Алгоритм Эйлера,  Алгоритм Кристофидеса 
