@@ -71,7 +71,7 @@
 
 <img width="1115" height="381" alt="image" src="https://github.com/user-attachments/assets/3103a73d-8140-4227-bee2-dcefa7f09a6b" />
 
-<img width="1115" height="343" alt="image" src="https://github.com/user-attachments/assets/ad2067dd-8737-407b-9c3b-fc2d941bd48b" />
+<img width="1115" height="362" alt="image" src="https://github.com/user-attachments/assets/3f68f6f9-deb1-4c3c-8a84-844822975e88" />
 
 
 ### Практичечкая работа №14 Алгоритм Рабина – Карпа
